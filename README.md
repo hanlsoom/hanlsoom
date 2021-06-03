@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the BALKARI Inc.
+- 🔭 I’m currently working on the [BALKARI Inc].
 - 💬 I’m now working on the [KARMA Messenger App] project.
 
+[BALKARI Inc]: https://www.balkari.com
 [KARMA Messenger App]: https://play.google.com/store/apps/details?id=me.karmalab.talk "구글 플레이스토어 페이지로 이동합니다."
 
 <!--
