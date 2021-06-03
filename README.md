@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-🔭 I’m currently working on VALKARI Inc.
+- 🔭 I’m currently working on the BALKARI Inc.
+- 💬 I’m now working on the [KARMA Messenger App] project.
+
+[KARMA Messenger App]: https://play.google.com/store/apps/details?id=me.karmalab.talk "구글 플레이스토어 페이지로 이동합니다."
 
 <!--
 **hanlsoom/hanlsoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
